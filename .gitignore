@@ -1,0 +1,13 @@
+# 忽略上传的参考文件（包含中文路径）
+.uploads/
+
+# 忽略 GitHub token
+.github_token
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略临时文件
+*.tmp
+*.log
